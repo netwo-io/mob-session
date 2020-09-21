@@ -9,11 +9,17 @@ pub fn display_in_a_frame(sentence: &str) -> &str {
     let largest_word_length = words.iter().fold(0, |acc, word| max(acc, word.len()));
 
 
+
     r#"*********
 * I     *
 * Love  *
 * Netwo *
 *********"#
+}
+
+pub(crate) fn create_line(word: &str, length: usize, padding_character: char) -> &str {
+    let mut buffer: &str = format!("* {}{} *", padding_character).as_str();
+
 }
 
 #[cfg(test)]
