@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12c89fd1-2b11-459f-9995-02a3724f354b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xbmbgylm" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hohD76nrPqOS0BhkINWLoErUxS" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunManager" selected="Cargo Command.Test main::test">
+    <configuration name="Test main::test" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package mob-session --bin mob-session test" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test test::it_shall_display_i_love_netwo_in_a_frame" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package mob-session --bin mob-session test::it_shall_display_i_love_netwo_in_a_frame -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test test::it_shall_display_i_love_netwo_in_a_frame_lowercase" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package mob-session --bin mob-session test::it_shall_display_i_love_netwo_in_a_frame_lowercase -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Test main::test" />
+        <item itemvalue="Cargo Command.Test test::it_shall_display_i_love_netwo_in_a_frame" />
+        <item itemvalue="Cargo Command.Test test::it_shall_display_i_love_netwo_in_a_frame_lowercase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12c89fd1-2b11-459f-9995-02a3724f354b" name="Default Changelist" comment="" />
+      <created>1600683230187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600683230187</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="204" key="GridCell.Tab.0.bottom" timestamp="1600683892177">
+      <screen x="0" y="0" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1057@0.0.1920.1057" timestamp="1600683892177" />
+    <state width="1878" height="204" key="GridCell.Tab.0.center" timestamp="1600683892176">
+      <screen x="0" y="0" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="204" key="GridCell.Tab.0.center/0.0.1920.1057@0.0.1920.1057" timestamp="1600683892176" />
+    <state width="1878" height="204" key="GridCell.Tab.0.left" timestamp="1600683892176">
+      <screen x="0" y="0" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="204" key="GridCell.Tab.0.left/0.0.1920.1057@0.0.1920.1057" timestamp="1600683892176" />
+    <state width="1878" height="204" key="GridCell.Tab.0.right" timestamp="1600683892176">
+      <screen x="0" y="0" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="204" key="GridCell.Tab.0.right/0.0.1920.1057@0.0.1920.1057" timestamp="1600683892176" />
+  </component>
+</project>
